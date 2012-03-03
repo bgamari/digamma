@@ -1,0 +1,16 @@
+Name:                digamma
+Version:             0.1
+Synopsis:            A robust implementation of the digamma function
+Homepage:            https://github.com/bgamari/digamma
+License:             BSD3
+License-file:        LICENSE
+Author:              Ben Gamari
+Maintainer:          bgamari@gmail.com
+Category:            Math
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Library
+  Exposed-modules:   Math.Digamma
+  Build-depends:     base, polynomial 
+
