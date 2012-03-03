@@ -1,4 +1,4 @@
-module Math.Digamma (digamma) where
+module Numeric.Digamma (digamma) where
 
 import Math.Polynomial
 

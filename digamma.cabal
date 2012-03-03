@@ -17,6 +17,6 @@ Source-repository head
   Location:          git://github.com/bgamari/digamma.git
 
 Library
-  Exposed-modules:   Math.Digamma
+  Exposed-modules:   Numeric.Digamma
   Build-depends:     base >= 4 && < 5, polynomial >= 0.6.5 && < 0.7
 
