@@ -1,6 +1,8 @@
 Name:                digamma
 Version:             0.1
 Synopsis:            A robust implementation of the digamma function
+Description:         An implementation of the digamma function
+                     based on Thomas Minka's Matlab code.
 Homepage:            https://github.com/bgamari/digamma
 License:             BSD3
 License-file:        LICENSE
